@@ -1,0 +1,38 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
+# p10k
+source /usr/local/share/powerlevel10k/powerlevel10k.zsh-theme
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# Enable tab completion and menu selection.
+autoload -Uz compinit && compinit
+zstyle ':completion:*' menu select
+
+# Enable colors
+autoload -Uz colors && colors
+
+# Aliases
+alias diff='diff --color=auto'
+alias grep='grep --color=auto'
+alias ls='ls -l --color=auto'
+alias la='ls -al --color=auto'
+alias reloadprofile='source /etc/zprofile && source ~/.zshrc' # Reset initial $PATH
+
+# fnm
+eval "$(fnm env --use-on-cd)"
+
+# pyenv
+export PYENV_ROOT="$HOME/.pyenv"
+command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
+# Load ZSH plugins.
+source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.zsh/bd.zsh
