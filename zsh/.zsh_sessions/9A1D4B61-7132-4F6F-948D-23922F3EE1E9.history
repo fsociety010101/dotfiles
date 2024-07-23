@@ -1,0 +1,1007 @@
+pip install setuptools
+python setup.py clean
+python setup.py build
+sudo pip install psycopg2 
+bat /etc/shells
+brew install zlib
+pip uninstall psycopg2
+pip uninstall scapy
+python -m venv .venv
+ll
+la
+source .venv/bin/activate
+which python
+which python3
+which pip
+sudo which pip
+sudo pip install psycopg2
+brew install postgresql
+sudo pip install psycopg2
+sudo pip install scapy
+python setup.py clean
+pip install setuptools
+python setup.py clean
+python setup.py build
+deactivate
+rm -rf .venv
+mise use python@ 2
+mise use python@2
+which python
+cd ..
+which python
+cd Pyrit
+ls
+python -v
+python --version
+pip install setuptools
+sudo pip install psycopg2
+sudo pip install scapy
+python setup.py clean
+python setup.py build
+sudo python setup.py install
+python setup.py build
+deactivate
+cd
+mise ls
+mise use python@latest
+mise uninstall python@2
+rm -rf: ~/.local/share/mise/installs/python/2.7.18
+rm -rf ~/.local/share/mise/installs/python/2.7.18
+sudo rm -rf ~/.local/share/mise/installs/python/2.7.18
+clear
+mise uninstall python@2
+cd Desktop
+git clone https://github.com/phenotypic/WiFiCrack.git
+cd WiFiCrack
+ll
+la
+bash WiFiCrack.sh
+bash WiFiCrack.sh
+brew install wireshark
+bash WiFiCrack.sh
+brew install hashcat
+brew reinstall hashcat
+bash
+pwd
+cd Desktop
+pwd
+cd WiFiCrack/
+ls
+bash WiFiCrack.sh
+bash WiFiCrack.sh
+bash 
+cd WiFiCrack
+cd Desktop/WiFiCrack
+ls
+la
+bash WiFiCrack.sh
+bash WiFiCrack.sh
+cd ~
+ll
+cd zizzania
+make uninstall
+ll
+cd 
+cd hashcat
+ll
+cd
+gc git@github.com:cyrus-and/zizzania.git
+git clone git@github.com:cyrus-and/zizzania.git
+rm -rf zizzania
+gc git@github.com:cyrus-and/zizzania.git
+git clone git@github.com:cyrus-and/zizzania.git
+cd zizzania
+make -f config.Makefile
+make
+make install
+os.getcwd()\
+exir
+brew install libpcap wget hcxtools
+cd Desktop
+la
+brew uninstall --zap --force wireshark
+mise use -g python@3
+brew install libpcap wget hcxtools
+git clone https://github.com/cyrus-and/zizzania.git ~/zizzania
+cd ~/zizzania
+make -f config.Makefile && make
+git clone https://github.com/hashcat/hashcat.git ~/hashcat\
+
+cd ~/hashcat
+make
+cd ~/Desktop
+git clone https://github.com/phenotypic/WiFiCrackPy.git
+cd WiFiCrackPy
+pip3 install -r requirements.txt
+python3 WiFiCrackPy.py
+python3 WiFiCrackPy.py
+sudo python3 WiFiCrackPy.py
+sudo python3 WiFiCrackPy.py
+hashcat
+python3 WiFiCrackPy.py
+pip uninstall -r requirements.txt
+pip uninstall -r requirements.txt
+brew uninstall libpcap wget hcxtools
+rm -rf /usr/local/etc/wgetrc
+clear
+python -m venv .venv
+which python
+source .venv/bin/activate
+which python
+pip install -r requirements.txt
+export PATH="/usr/local/opt/libpcap/bin:$PATH"
+export LDFLAGS="-L/usr/local/opt/libpcap/lib"
+export CPPFLAGS="-I/usr/local/opt/libpcap/include"
+python3 WiFiCrackPy.py
+ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport /usr/local/bin/airport\
+sudo airport --disassociate\
+sudo airport --channel=<channel>
+ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport /usr/local/bin/airport\
+
+sudo airport --disassociate
+sudo airport --channel=<channel>
+sudo airport --channel=<channel>
+zizzania 
+cd ..
+cd WiFiCrackPy
+python3 WiFiCrackPy.py
+nvim WiFiCrackPy.py
+nvim WiFiCrackPy.py -i 
+nvim WiFiCrackPy.py -i 
+networksetup -listallhardwareports
+nvim WiFiCrackPy.py -i en0
+nvim WiFiCrackPy.py -i en0
+cd Desktop/WiFiCrack
+cd ..
+cd WiFiCrackPy
+python WiFiCrackPy.py
+python3 WiFiCrackPy.py
+nvim WiFiCrackPy.py
+python3 WiFiCrackPy.py
+source .venv/bin/activate
+python3 WiFiCrackPy.py
+python3 -i WiFiCrackPy.py
+python3 WiFiCrackPy.py -i
+python3 WiFiCrackPy.py -i en0
+p10k configure
+ll
+clear
+clear
+cd Desktop/WiFiCrackPy
+ll
+clear
+python3 WiFiCrackPy.py -i en0
+source .venv/bin/activate
+python3 WiFiCrackPy.py -i en0
+cd ..
+rm -rf WiFiCrackPy WiFiCrack
+rm -rf Pyrit
+sudo rm -rf Pyrit
+rm -rf wifite2
+sudo rm -rf wifite2
+clear
+cd
+ll
+cd zizzania
+make uninstall
+rm -f /usr/local/bin/zizzania
+cd ..
+rm -rf zizzania
+cd hashcat
+make uninstall
+cd ..
+cd hashcat-utils
+make uninstall
+ll
+cd ..
+rm -rf hashcat hashcat-utils
+ll
+clear
+zizzania 
+nvim Desktop/fish_prompt.fish
+rm -rf Desktop/fish_prompt.fish
+clear
+brew install pure
+ls
+clear
+ll
+cd Desktop/WiFiCrackPy
+cd Developer/comit-dotnet
+cd class12
+ls
+ll
+cd ..
+cd ..
+cd leetcode/interview-prep
+ll
+source .venv/bin/activate
+ll
+la
+clear
+clear
+cd Developer/comit-dotnet
+cd class7
+ll
+cd ..
+cd class12
+ll
+la
+cd
+clae
+nvim .zshenv
+nvim .config
+ls
+clear
+cd Developer/comit-dotnet
+ls
+clear
+ls
+nvim .config
+cd Developer/comit-dotnet
+ls
+touch nfd.tx
+ls
+git status
+cler
+sudo airport en0 sniff 6
+airodump-ng-oui-update
+sudo chown -R "$USER":admin /usr/local
+sudo chown -R $(whoami) $(brew --prefix)/*
+sudo chown -R "$USER":admin /usr/local
+brew doctor
+brew cleanup
+mise ls
+mise use -g python@latest
+mise ls
+where python3
+where python
+which python
+ls
+clear
+brew search aircrack
+sudo airport en0 sniff 6
+wdutil 
+brew install aircrack-ng
+airodump-ng-oui-update
+sudo airodump-ng wlan0
+sudo aircrack-ng wlan0
+sudo aircrack-ng
+aircrack-ng ea0
+brew uninstall libpcap wget hcxtools
+brew uninstall aircrack-ng
+rm -rf /usr/local/etc/aircrack-ng
+clear
+wdutil -l
+wdutil info
+sudo wdutil info
+sudo wdutil en0
+sudo wdutil log en0
+brew install aircrack-ng
+git clone https://github.com/3xploitGuy/lazyaircrack.git
+cd lazyaircrack
+chmod +x lazyaircrack.sh
+./lazyaircrack.sh
+sudo ./lazyaircrack.sh
+./lazyaircrack.sh
+cd lazyaircrack
+clear
+./lazyaircrack.sh
+bash
+cd lazyaircrack
+sudo ./lazyaircrack.sh
+sudo ./lazyaircrack.sh
+sudo ./lazyaircrack.sh
+sudo airmon-ng check wlan0
+aireplay-ng --test wlan0
+aircrack-ng --test wlan0
+iwconfig
+ifconfig
+ifconfig
+brew tap homebrew/cask-fonts
+brew install font-monaspace
+ll
+ʼ
+ll
+clear
+ll
+clear
+ls
+brew search font-maple
+brew install\ font-maple
+brew install font-maple
+ll
+clear
+echo $PATH
+nvim $PATH
+fish
+which python
+which python3
+clear
+clear
+ll
+clear
+cd 
+nvim .config/zsh
+ll
+ll
+clear
+dotnet new console class13 --use-program-main
+fish
+ll
+clear
+ll
+la
+ls
+clear
+clear
+which git
+where git
+git -v
+/usr/bin/git -v
+clear
+sudo xcodebuild -license
+clear
+ll
+clear
+clear
+ls
+nvim .zshenv
+nvim .config/zsh
+ll
+clear
+ls
+brew doctor
+clear
+ls
+exit
+cat /etc/zshrc
+ls
+clear
+ls
+zsh --sourcetrace
+zsh --no-globalrcs
+zsh --sourcetrace
+echo $ZDOTDIR
+zsh -f
+sh
+clear
+ls
+nvim .zshenv
+ll
+clear
+ll
+la
+clear
+nvim .config
+ls
+ls
+clear
+ls
+clear
+ll
+ll
+ll
+venv 
+cd Developer/interview-prep
+ll
+la
+ls
+cd Developer
+vevn
+venv
+pwd
+ll
+clear
+cd Developer
+venv
+ls
+cd ..
+ls
+cd Developer
+which python3
+which python
+clear
+deactivate
+ll
+la
+rm -rf .venv
+clear
+cat /etc/zshrc
+clear
+nvim .config/zsh
+nvim .config/zsh
+ll
+clear
+fish 
+brew doctor
+clear
+brew shellenv
+brew ls
+brew ls
+clear
+fish
+ls
+ls
+ls
+ls
+cd Developer
+ls
+ls
+clear
+ll
+cd Developer
+;s
+ls
+ls
+cd Developer
+ls
+ll
+clear
+ls
+clear
+cd Developer/interview-prep
+ll
+which python
+la
+which python3
+which python
+source .venv/bin/activate
+which python
+ll
+clear
+cd ..
+deactivate
+clear
+cd comit-dotnet
+ll
+clear
+l
+ls
+clear
+cd .config/zsh
+ll
+la
+cd custom
+ll
+git clone https://github.com/agkozak/agkozak-zsh-prompt
+ll
+cd agkozak-zsh-prompt
+ll
+ls
+clear
+cd Developer/comit-dotnet
+ll
+rm -rf nfd.tx
+ll
+la
+cd ..
+cd cls-assignment
+ls
+which python,
+which python
+ls
+cd ..
+cd interview-prep
+la
+which python
+rm -rf .venv
+cd ..
+cd interview-prep
+ls
+clear
+ls
+ls
+brew install olets/tap/hometown-prompt
+clear
+brew install olets/tap/hometown-prompt
+clear
+brew install olets/tap/hometown-prompt
+brew reinstall hometown-prompt
+ls
+clea
+clear
+cd Developer/comit-dotnet
+ll
+clear
+exec zsh
+brew ls
+ls
+clear
+ll
+la
+cat 'Virtual Machines.localized\
+
+cat 'Virtual Machines.localized'
+cd Virtual\ Machines.localized
+ll
+ls
+la
+clear
+brew ls
+brew info zsh-async
+cd
+brew cleanup
+clear
+nvim .config/zsh
+ll
+ls
+cle
+clear
+ll
+clear
+ls
+clear
+ll
+cd Developer/comit-dotnet
+ll
+cd ..
+cd cls-assignment
+ll
+which python
+cler
+clear
+clear
+cd 
+ll
+cd Developer/comit-dotnet
+dotnet new console class13 --use-program-main
+ls
+dotnet new console --use-program-main class13
+dotnet new console --use-program-main 
+ll
+rm -rf obj
+clear
+dotnet new console -o "class13" --use-program-main 
+dotnet new console -o "class14" --use-program-main 
+ll
+git status
+cat Program.cs
+bat 
+cat --color Pr
+ls
+cat --color Program.cs
+cat --color=always Program.cs
+bat --list-themes
+cd Developer/comit-dotnet
+ll
+cat --color=always Program.cs
+cat Program.cs
+clar
+clear
+cd Developer/comit-dotnet
+cat --color=always Program.cs
+cat Program.cs
+cd Developer/comit-dotnet
+ll
+cat Program.cs
+cd Developer/comit-dotnet
+ll
+bat -l Protocol\ Buffer
+bat --list-themes
+bat --theme=Monokai\ Extended
+bat --list-themes
+nvim .config/zsh
+cd Developer/comit-dotnet/class14
+code .
+clear
+cd ../class12
+code .
+clear
+clear
+ll
+clear
+dotnet run
+clear
+dotnet run
+dotnet run
+clear
+clear
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+clear
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+clear
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+cd Developer/comit-dotnet/class14
+ll
+clear
+clear
+dotnet run
+clear
+clear
+dotnet run
+clear
+brew update && brew upgrade
+clear
+clear
+cd
+ls
+ls
+clear
+ls
+cd Developer/comit-dotnet/class14
+ll
+clear
+cd Developer/comit-dotnet/class14
+ll
+l
+ll
+celar
+clear
+nvim .config/zsh
+nvim 
+nvim
+cd Developer/comit-dotnet/class14
+ll
+clear
+nvim
+cd 
+cd Developer/comit-dotnet/class14
+ll
+nvim 
+nvim .config/zsh
+cd Developer/comit-dotnet/class14
+nvim 
+nvim ~/.config/zsh
+brew update && brew upgrade
+brew doctor
+brew install --cask upscayl
+brew update && brew upgrade
+dotnet --versin
+dotnet --version
+clear
+nvim .config/zsh
+brew update && brew upgrade
+brew doctor
+brew cleanup\ 
+brew autoremove
+brew cleanup\ 
+brew cleanup
+brew completions
+brew completions state
+networksetup -listallhardwareports
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 enter f7:32:3c:74:bf:3f
+sudo ifconfig en0 enter f7:32:3c:74:bf:3f
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 enter
+sudo ifconfig en0 enter 83:da:a9:fb:12:53
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether e9:69:e9:65:6f:0f
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether ad:46:c9:06:43:cd
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 5c:54:d7:6d:99:3a
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether a1:34:81:66:38:bd
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 58:d6:2f:cd:e5:d3
+sudo ifconfig en0 ether 58:d6:2f:cd:e5:d3
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 84:14:5c:8d:02:6a
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 51:b4:2b:8d:da:68
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 51:b4:2b:8d:da:68
+sudo ifconfig en0 ether 35:6c:ae:99:3c:d2
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether e3:08:2a:4e:ff:6b
+sudo ifconfig en0 ether 35:97:c5:6d:24:0b
+sudo ifconfig en0 ether 35:97:c5:6d:24:0b
+sudo ifconfig en0 ether 35:97:c5:6d:24:0b
+sudo ifconfig en0 ether e3:08:2a:4e:ff:6b
+sudo ifconfig en0 ether e3:08:2a:4e:ff:6b
+sudo ifconfig en0 ether e3:08:2a:4e:ff:6b
+sudo ifconfig en0 ether 35:97:c5:6d:24:0b
+clear
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+zsh
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+sudo ifconfig en0 ether 9f:09:6a:7c:89:63
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether bd:df:f2:2b:01:76
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether c8:db:66:1a:35:5c
+networksetup -listallhardwareports
+sudo ifconfig en0 ether bd:df:f2:2b:01:76
+ifconfig en0 ether bd:df:f2:2b:01:76
+sudo ifconfig en0 ether bd:df:f2:2b:01:76
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 02:47:64:c7:d2:12
+sudo ifconfig en0 ether 02:47:64:c7:d2:12
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 28:77:ae:fd:78:78
+sudo ifconfig en0 ether e3:08:2a:4e:ff:6b
+sudo ifconfig en0 ether 35:97:c5:6d:24:0b
+sudo ifconfig en0 ether 51:b4:2b:8d:da:68
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 74:6d:ad:2b:9a:38
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 0f:9d:42:58:f1:38
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 05:7b:e3:c5:ea:7b
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 42:f7:6f:30:23:f7
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 42:f7:6f:30:23:f7
+sudo ifconfig en0 ether 8d:00:34:ab:e3:9b
+sudo ifconfig en0 ether 8d:00:34:ab:e3:9b
+sudo ifconfig en0 ether 8d:00:34:ab:e3:9b
+sudo ifconfig en0 ether 8d:00:34:ab:e3:9b
+sudo ifconfig en0 ether 8d:00:34:ab:e3:9b
+openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
+sudo ifconfig en0 ether 42:ac:0f:8b:78:ba
+brew update && brew upgrade
+fish
+brew ls
+brew info arc 
+brew uninstall --force --zap arc
+brew uninstall --force --zap hoppscotch
+clear
+brew doctor
+brew doctor
+nvim .config/zsh
+ll
+clear
+nvim .config/zsh
+brew update && brew upgrade
+clear
+cd Developer/comit-dotnet/class14
+ll
+brew uninstall --force --zap hoppscotch
+brew uninstall --force --zap insomnia
+brew doctor
+cd Developer/comit-dotnet
+ll
+dotnet new console -o "class16" --use-program-main 
+ll
+cd class16
+code .
+brew update && brew upgrade
+brew doctor
+brew autoremove
+networkQuality -p
+brew update && brew upgrade
+brew doctor
+networkQuality -p
+brew update && brew upgrade
+brew doctor
+brew autoremove
+brew cleanup
+brew ls
+cd Developer/comit-dotnet
+ll
+clear
+ll
+dotnet new console -o "class18" --use-program-main 
+code .
+cd class16
+cd ..
+cd class18
+code .
+dotnet run
+clear
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+clear
+ping 8.8.8.8
+ping 1.1.1.1
+ping 8.8.8.8
+ping 8.8.4.4
+ping 1.0.0.1
+ping 1.0.0.1
+nvim .config/zsh
+brew update && brew upgrade
+fish
+brew uninstall --force --zap adguard
+fzf
+cd /Library/LaunchDaemons
+ll
+rm -rf com.microsoft.office.licensingV2.helper.plist
+sudo rm -rf com.microsoft.office.licensingV2.helper.plist
+sudo
+clear
+cd ..
+cd LaunchAgents
+ll
+cd ..
+cd ..
+fzf
+cd System/Library/LaunchDaemons
+ll
+cd ..
+cd LaunchAgents
+ll
+clear
+cd
+fzf 
+cd Library/LaunchAgents
+ll
+rm -rf *
+cd ..
+cd ..
+ll
+cd Library
+ll
+cd Preference
+cd Preferences
+ll
+ls
+ll
+cd ~/Library/Caches
+rm -rf *
+cd ~/Library/Caches
+rm -rf *
+ll
+sudo xcodebuild -license accept
+brew install --cask ccleaner
+brew install --cask knockknock
+brew install --cask etrecheckpro
+brew uninstall --force --zap ccleaner
+brew install --cask stats
+brew install --cask stats
+brew reinstall stats
+cd Developer/comit-dotnet
+ll
+dotnet new console -o "class19" --use-program-main 
+cd class19
+code .
+brew doctor
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+brew update && brew upgrade
+clear
+brew update && brew upgrade
+clear
+brew upgrade signal
+brew update && brew upgrade --greedy
+brew update && brew upgrade --greedy --dry-run
+brew update && brew upgrade --greedy-auto-updates
+brew update && brew upgrade --greedy-auto-updates --dry-run
+brew upgrade --greedy-auto-updates --dry-run
+brew upgrade telegram whatsapp zoom rectangle maccy iina google-chrome
+cd Developer/comit-dotnet
+ll
+dotnet new console -o "class20" --use-program-main 
+rm -rf class14.zip
+clear
+git status
+git add .
+git commit -m "Add missing classes" && git push origin main
+clear
+git status
+ll
+cd class20
+ll
+clear
+code .
+clear
+clear
+clear
+clear
+clear
+clear
+dotnet run
+clear
+clear
+dotnet run
+dotnet run
+dotnet run
+dotnet run
+clear
+clear
+dotnet run
+dotnet run
+dotnet run
+dotnet run Shape.cs
+dotnet run
+dotnet run
+cd Developer/comit-dotnet
+ll
+cd class19
+code .
+fish
+brew update && brew upgrade
+brew uninstall --force --zap intellij-idea
+brew doctor
+brew autoremove
+brew upgrade --greedy --dry-run
+brew uninstall --force --zap tableplus
+brew uninstall --force --zap rapidapi
+brew uninstall --force --zap multiviewer-for-f1
+brew upgrade --greedy 
+brew upgrade --greedy  --dry-run
+brew uninstall --zap --force microsoft-word microsoft-powerpoint microsoft-auto-update
+clear
+brew upgrade --greedy  --dry-run
+brew upgrade --greedy
+clear
+\
+
+clear
+brew d
+brew dr
+brew uninstall --zap --force upscayl
+brew uninstall --zap --force upscasfsl
+clear
+brew update && brew upgrade
+brew upgrade --greedy --dry-run
+brew doctor
+brew upgrade --greedy
+brew autoremove
+brew cleanup
+clear
+brew update && brew upgrade
+git --version
+clear
+cd Developer/comit-dotnet
+ll
+clear 
+ll
+brew upgrade --greedy --dry-run
+brew upgrade --greedy 
+git --version
+cle
+clear
+git --version
+git config --list
+git config --global diff.tool=nvim
+git config --global diff.tool=neovim
+clear
+git --version
+git config --list
+cd Developer/comit-dotnet
+l
+ll
+clear
+ll
+mkdir class21
+cd class21
+ll
+clear
+git --version
+clear
+brew services 
+brew services ls 
+clear
+clear
+hello
+exti
+exit
